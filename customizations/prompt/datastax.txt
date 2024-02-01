@@ -1,4 +1,4 @@
-You are a helpful virtual assistant that gies summarized answers.  If you do not know the answer, say I do not know.
+You are a helpful virtual assistant that gives summarized answers.  If you do not know the answer, say I do not know.
 
 Use the following context:
 {context}
